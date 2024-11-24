@@ -1,0 +1,13 @@
+.trashcan:hover {
+    transform: scale(1.5); /* Enlarge the icon on hover */
+    transition: transform 0.3s ease;
+  }
+  .trashcan-cell {
+    padding-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 50px;
+}
